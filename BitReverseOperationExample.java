@@ -7,10 +7,14 @@ public class BitReverseOperationExample {
 		int num3 = num2 + 1;
 		System.out.println(num3);
 
+<<<<<<< HEAD
 		System.out.println("Hello, World");
 
 		// java conflict..
 		// java2 add.....
+=======
+		// java conflict
+>>>>>>> 68689edf276f78aaca01da044195ec726dc81a68
 
 		String returnValue = toBinaryString(num1);
 		System.out.println(returnValue);
