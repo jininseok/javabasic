@@ -5,7 +5,7 @@ public class BitReverseOperationExample {
 		int num1 = 10;
 		int num2 = ~num1;
 		int num3 = num2 + 1;
-		System.out.println(num4);
+		System.out.println(num3);
 
 		System.out.println("Hello, World");
 

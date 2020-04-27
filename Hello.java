@@ -1,5 +1,3 @@
-package com.yedam.prod; // com.yedam.dev.Hello
-
 public class Hello {
 	public static void main(String[] args) {
 		System.out.println("Hello,Jininseok");

@@ -16,7 +16,7 @@ public class LongExample {
 			
 		}
 		int num6 = 1000;
-		int num7 = 100000000;
+		int num7 = 100;
 		if (num6 <= Integer.MAX_VALUE/num7) {
 			int gop = num6 * num7;
 			System.out.println("gop : " + gop);

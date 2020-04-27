@@ -37,9 +37,8 @@ public class CharOperationExample {
     //public static double devide (int num1, int num2) {
     //     double result = (double) num1 / num2;
     //     ruturn result;
+    //     or
     //     return (double) num1 / num2;
-    //    
     //}
-
 
 }
