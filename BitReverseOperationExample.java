@@ -6,7 +6,7 @@ public class BitReverseOperationExample {
 		int num2 = ~num1;
 		int num3 = num2 + 1;
 
-		// java .....
+		// java conflict
 
 		String returnValue = toBinaryString(num1);
 		System.out.println(returnValue);
